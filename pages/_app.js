@@ -10,7 +10,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>Hoppn - Experience Convenience with delivery</title>
+        <title>Update Default Title in _app.js</title>
         <meta
           name="viewport"
           content="minimum-scale=1, initial-scale=1, width=device-width"
